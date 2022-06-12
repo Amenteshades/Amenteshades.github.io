@@ -1,9 +1,8 @@
 body {
-  background-color: lightblue;
+  background: #120e07;
 }
-
-h1 {
-  color: white;
+.src {
+  padding: 20px;
   text-align: center;
 }
 
