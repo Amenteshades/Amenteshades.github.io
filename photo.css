@@ -1,0 +1,133 @@
+.photo {
+  width: 26.5%;
+  height: 50%;
+  background-size: 200%;
+
+  position: absolute;
+  bottom: 400px;
+  right: 750px;
+
+}
+.photo1 {
+  width: 26.5%;
+  height: 50%;
+  background-size: 200%;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  bottom: 400px;
+  right: 1395px;
+
+}
+.photo2 {
+  width: 26.5%;
+  height: 50%;
+  background-size: 200%;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  bottom: 400px;
+  right: 50px;
+
+}
+.photo3 {
+  width: 26.5%;
+  height: 50%;
+  background-size: 200%;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  bottom: -170px;
+  right: 1415;
+
+}
+.photo4 {
+  width: 26.5%;
+  height: 50%;
+  background-size: 200%;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  bottom: -170px;
+  right: 750px;
+
+}
+.photo5 {
+  width: 26.5%;
+  height: 50%;
+  background-size: 200%;
+  background-repeat: no-repeat;
+
+  position: absolute;
+  bottom: -170px;
+  right: 50px;
+
+}
+
+.title{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+left: 840px;
+bottom : 910px;
+}
+
+.label{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: 340px;
+  right: 890px;
+  
+}
+.label1{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: 340px;
+  right: 1570px;
+  
+}
+.label2{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: 340px;
+  right: 200px;
+  
+}
+.label3{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: -230px;
+  right: 1430px;
+  
+}
+.label4{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: -230px;
+  right: 900px;
+  
+}
+.label5{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  bottom: -230px;
+  right: 210px;
+  
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+
+}
+
+body {
+  background: #FF00DC;
+}
+
+@media only screen and (max-width:700px ) {
+  
+}
+

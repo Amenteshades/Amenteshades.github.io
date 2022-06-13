@@ -1,0 +1,19 @@
+.script{
+background: #0009;
+width: 100%;
+}
+.noselect loadHidden{
+    position: absolute;
+    background: #0009;
+    width: 100%;
+    right: 0px;
+    bottom: 0px;
+}
+
+.discord{
+
+    position: absolute;
+    background: #0009;
+    right: 0px;
+    bottom: 0px;
+}
