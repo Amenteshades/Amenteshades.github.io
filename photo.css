@@ -6,7 +6,6 @@
   position: absolute;
   bottom: 400px;
   right: 750px;
-float: right;
 
 }
 .photo1 {
@@ -18,14 +17,13 @@ float: right;
   position: absolute;
   bottom: 400px;
   right: 1395px;
-float:none;
+  
 }
 .photo2 {
   width: 26.5%;
   height: 50%;
   background-size: 200%;
   background-repeat: no-repeat;
-
   position: absolute;
   bottom: 400px;
   right: 50px;
@@ -36,7 +34,6 @@ float:none;
   height: 50%;
   background-size: 200%;
   background-repeat: no-repeat;
-
   position: absolute;
   bottom: -170px;
   right: 1415;
@@ -47,7 +44,6 @@ float:none;
   height: 50%;
   background-size: 200%;
   background-repeat: no-repeat;
-
   position: absolute;
   bottom: -170px;
   right: 750px;
@@ -58,11 +54,9 @@ float:none;
   height: 50%;
   background-size: 200%;
   background-repeat: no-repeat;
-
   position: absolute;
   bottom: -170px;
   right: 50px;
-
 }
 
 .title{
@@ -136,7 +130,6 @@ height: 3%;
   overflow-y: scroll;
   scroll-behavior: smooth;
   scroll-snap-type: y mandatory;
-
 }
 
 body {
@@ -149,7 +142,7 @@ body {
 
 
 @media only screen and (max-width: 500px) {
-
+  
 .container{
   overflow-y: hidden;
   scroll-behavior: smooth;
@@ -202,7 +195,6 @@ body{
   background-repeat:repeat;
 }
 
-
 .label{
   width: 12%;
   height: 3%;
@@ -239,7 +231,7 @@ body{
   color: black;
   font-size: 25px;
  left: 37%;
-bottom: -88%;
+ bottom: -88%;
 }
 
 .label4{
@@ -253,7 +245,6 @@ bottom: -88%;
 }
 
 .label5{
-
   width: 8%;
   height: 3%;
   white-space: nowrap;
